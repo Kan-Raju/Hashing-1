@@ -1,3 +1,7 @@
+// Time Complexity : O(n) - where n is length of string - for traversing the entire string
+// Space Complexity : O(1) - for hashset, hashmap
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : No
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
